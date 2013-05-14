@@ -1,4 +1,5 @@
-#include "msp430.h"	
+#include "msp430.h"
+; Rafa PAto
 Delay2	MACRO
 	LOCAL	Loop1
 	mov.w	#50000,R10
